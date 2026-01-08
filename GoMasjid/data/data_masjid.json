@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "nama": "Masjid Kampus STT NF",
+    "alamat": "Jl. Situ Indah, Depok",
+    "latitude": -6.3705,
+    "longitude": 106.8305,
+    "info": "Masjid kampus STT Terpadu Nurul Fikri"
+  },
+  {
+    "id": 2,
+    "nama": "Masjid Al-Muhajirin",
+    "alamat": "Jl. H. Mawi, Depok",
+    "latitude": -6.368,
+    "longitude": 106.828,
+    "info": "Masjid dekat perumahan sekitar kampus"
+  },
+  {
+    "id": 3,
+    "nama": "Masjid Nurul Iman",
+    "alamat": "Jl. Raya Citayam, Depok",
+    "latitude": -6.372,
+    "longitude": 106.832,
+    "info": "Masjid di jalan raya Citayam"
+  },
+  {
+    "id": 4,
+    "nama": "Masjid Baiturrahman",
+    "alamat": "Jl. Pedurenan, Depok",
+    "latitude": -6.366,
+    "longitude": 106.833,
+    "info": "Masjid daerah Pedurenan"
+  },
+  {
+    "id": 5,
+    "nama": "Masjid Al-Ikhlas",
+    "alamat": "Jl. Rawa Denok, Depok",
+    "latitude": -6.374,
+    "longitude": 106.827,
+    "info": "Masjid daerah Rawa Denok"
+  },
+  {
+    "id": 6,
+    "nama": "Masjid Jami Darussalam",
+    "alamat": "Jl. Tugu, Kec. Cimanggis, Kota Depok, Jawa Barat 16451",
+    "latitude": -6.3633814,
+    "longitude": 106.8408823,
+    "info": "Masjid yang asri di tengah komplek Griya Tugu Asri"
+  },
+  {
+    "id": 7,
+    "nama": "Masjid Jami Mardhotillah",
+    "alamat": "Jl. Akses UI Jl. Matrial No.30 1, RT.1/RW.1, Srengseng Sawah, Kec. Jagakarsa, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 10550",
+    "latitude": -6.353444644617995,
+    "longitude": 106.83421829390049,
+    "info": "Tempat wudhu banyak dan bersih. Tempat sholat juga nyaman, Sajadahnya bersih dan empuk. Ada pengajian setiap malam Jumat dan malam Senin."
+  },
+  {
+    "id": 8,
+    "nama": "Masjid Jami' Al-Ikhwan ",
+    "alamat": "JL Haji Shibi, RT 01 RW 02, Jagakarsa, RT.2/RW.2, Srengseng Sawah, Kec. Jagakarsa, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 10550",
+    "latitude": -6.3501037789573305,
+    "longitude": 106.83423290144484,
+    "info": "Tempat nyaman untuk beribadah, Terjangkau dari jalur utama Lenteng Agung Raya. Alquran dan kotak Amal menghiasi beberapa sudut masjid. Masjid luas menampung Banyak jamaah, fasilitas seperti wudhu, toilet, tempat sandal pun tersedia."
+  },
+  {
+    "id": 9,
+    "nama": "Masjid Jami' Al-Wadi",
+    "alamat": "Pasir Gunung Selatan, Cimanggis, Kota Depok, Jawa Barat ",
+    "latitude": -6.348717585798813,
+    "longitude": 106.83989772672318,
+    "info": "Nyaman untuk ibadah dan kegiatan keagamaan aktif"
+  },
+  {
+    "id": 10,
+    "nama": "Masjid Jami’ Nurul Huda",
+    "alamat": "Jl. Raya Lenteng Agung No.17, RT.10/RW.8, Lenteng Agung, Jagakarsa, Jakarta Selatan",
+    "latitude": -6.2947,
+    "longitude": 106.7998,
+    "info": "Masjid populer di Lenteng Agung yang sering dipakai untuk ibadah harian dan Jumat."
+  },
+  {
+    "id": 11,
+    "nama": "Masjid Jami' Nurul Yaqin",
+    "alamat": "Srengseng Sawah, Kec. Jagakarsa, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta",
+    "latitude": -6.345849220184303,
+    "longitude": 106.83330457204164,
+    "info": "Masjid Jami' Nurul Yaqin, Srengseng Sawah, Jakarta Selatan. Tempat yang teduh dan nyaman untuk beribadah, dengan arsitektur yang indah dan suasana yang tenang."
+  },
+  {
+    "id": 12,
+    "nama": "Masjid Jami' Baitul Khoir",
+    "alamat": "Jl. Garuda BTN hankam No.05, RT.4, Pasir Gn. Sel., Kec. Cimanggis, Kota Depok, Jawa Barat 16451",
+    "latitude": -6.3466169627667295,
+    "longitude": 106.83984916194677,
+    "info": "nyaman tempatnya, sejuk."
+  },
+  {
+    "id": 13,
+    "nama": "Masjid Jami At-Taubah",
+    "alamat": "Jl. H. Shibi 4 No.54, RT.13/RW.2, Srengseng Sawah, Kec. Jagakarsa, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12640",
+    "latitude": -6.348493661875383,
+    "longitude": 106.83862607480002,
+    "info": "arsitektur musholanya begitu indah, suasananya nyaman , mempunyai hawa yang adem dan juga menambah kekhusukan kita dalam beribadah."
+  },
+  {
+    "id": 14,
+    "nama": "Masjid Jami' Al-Ma'mur",
+    "alamat": "Jl. Klp. Dua Raya No.7, Tugu, Kec. Cimanggis, Kota Depok, Jawa Barat 16951",
+    "latitude": -6.355724965862652,
+    "longitude": 106.84361136525472,
+    "info": "masjid 2 lantai ini memiliki area ibadah utama yang nyaman dan adem ber-AC Parkir, selasar, toilet dan wudhu juga luas"
+  },
+  {
+    "id": 15,
+    "nama": "Masjid Jami’ Al-Hikmah",
+    "alamat": "Jl. Menpor Palsigunung, Tugu, Cimanggis, Kota Depok, Jawa Barat",
+    "latitude": -6.3628,
+    "longitude": 106.8535,
+    "info": "Masjid memiliki bangunan permanen, area wudhu terpisah, tempat penyimpanan alas kaki, serta digunakan untuk salat berjamaah dan kegiatan keagamaan warga sekitar."
+  },
+  {
+    "id": 16,
+    "nama": "Masjid Jami' At-Taqwa",
+    "alamat": "Jl. Lenteng Agung Raya, RT.7/RW.13, Srengseng Sawah, Kec. Jagakarsa, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12630",
+    "latitude": -6.34193051654363,
+    "longitude": 106.83416816451555,
+    "info": "Masjidnya besar dan aulanya sangat di jaga kebersihannya. Sangat rekomen untuk acara wedding."
+  },
+  {
+    "id": 17,
+    "nama": "Masjid Jami' Al-Ijabah",
+    "alamat": "Jl. Tugu, Kec. Cimanggis, Kota Depok, Jawa Barat",
+    "latitude": -6.367953348858398,
+    "longitude": 106.84706338042884,
+    "info": "Masjidnya bersih, parkirannya tidak luas tapi aman, tempat wudhunya bersih, tadi waktu saya sholat karpet masjidnya wangi, ruangan dalam masjidnya ber AC, nyaman banget buat berdzikir"
+  },
+  {
+    "id": 18,
+    "nama": "Masjid Jami Al-Mukminin",
+    "alamat": "Jl. Setu Indah, Tugu, Kec. Cimanggis, Kota Depok, Jawa Barat 16451",
+    "latitude": -6.35777,
+    "longitude": 106.8452851,
+    "info": "Musholla dua lantai, dingin(ada acnya), dan juga ada juga tempat untuk menaruh sepatu jadi aman"
+  },
+  {
+    "id": 19,
+    "nama": "Masjid Jami Al-Falah",
+    "alamat": "Jl. Inpres No.77, Tugu, Kec. Cimanggis, Kota Depok, Jawa Barat 16451",
+    "latitude": -6.3651427,
+    "longitude": 106.8450444,
+    "info": "Masjid kecil, tapi berAC"
+  },
+  {
+    "id": 20,
+    "nama": "Masjid Jami Darussalam",
+    "alamat": "Jl. Tugu, Kec. Cimanggis, Kota Depok, Jawa Barat 16451",
+    "latitude": -6.3633814,
+    "longitude": 106.8408823,
+    "info": "Masjid yang asri di tengah komplek Griya Tugu Asri"
+  },
+  {
+    "id": 21,
+    "nama": "Masjid Jami Nurul Ilmi",
+    "alamat": "Jl. H. Salim No.55, Tugu, Kec. Cimanggis, Kota Depok, Jawa Barat 16451",
+    "latitude": -6.3607074,
+    "longitude": 106.8456503,
+    "info": "Masjid nya tidak terlalu besar, tapi berAC, dan dekat dengan rumah warga"
+  },
+  {
+    "id": 22,
+    "nama": "Masjid Jami' Al-Ijabah",
+    "alamat": "Jl. Tugu, Kec. Cimanggis, Kota Depok, Jawa Barat",
+    "latitude": -6.367953348858398,
+    "longitude": 106.84706338042884,
+    "info": "Masjidnya bersih, parkirannya tidak luas tapi aman, tempat wudhunya bersih, tadi waktu saya sholat karpet masjidnya wangi, ruangan dalam masjidnya ber AC, nyaman banget buat berdzikir"
+  },
+  {
+    "id": 23,
+    "nama": "Masjid Jami' Al-Ikhlas Warohmah",
+    "alamat": "l. Akses UI Jl. Bima 2 No.8, RT.09/RW.10, Tugu, Kec. Cimanggis, Kota Depok, Jawa Barat 16451",
+    "latitude": -6.3559364126653906,
+    "longitude": 106.84596240457866,
+    "info": "Nyaman musholanya adem"
+  },
+  {
+    "id": 24,
+    "nama": "Masjid Jami' Al-Bakrie",
+    "alamat": "No Jl. Gardu No.38 11, RT.11/RW.2, Srengseng Sawah, Kec. Jagakarsa, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 10550",
+    "latitude": -6.344672172533502,
+    "longitude": 106.83990970046004,
+    "info": "Parkir luas,Ruang Sholat nyaman ber-AC, Toilet hanya 3"
+  },
+  {
+    "id": 25,
+    "nama": "Masjid Jami' Al-Huda",
+    "alamat": "Komplek Timah Kelapa Dua, Jl. Tugu Raya, Tugu, Kec. Cimanggis, Kota Depok, Jawa Barat 16951",
+    "latitude": -6.362023476573621,
+    "longitude": 106.85001405414924,
+    "info": "Masjidnya luas, BerAC, ada lift. Masjidnya bagus banget, bersih, wangi, interior megah, dingin, dekat sama jajanan dan umkm lainnya."
+  }
+]
